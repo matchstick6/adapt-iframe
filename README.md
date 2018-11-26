@@ -1,6 +1,6 @@
 # adapt-iframe
 
-An adapt component that loads content into an iframe
+An adapt component that loads content into an iframe, this version also allows the capability to go fullscreen.
 
 
 ## Installation
